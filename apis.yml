@@ -30,7 +30,7 @@ x-status-evidence:
 - witag.co has no DNS records (A/NS/SOA empty, probed 2026-07-21)
 - no WiTag app in Apple App Store search (probed 2026-07-21)
 - Lightspeed profile https://lsvp.com/company/witag/ lists it as private, seed 2017
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
